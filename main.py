@@ -1,5 +1,7 @@
-# Last edited by RJ Hollinger 10/15/2020
+# Last edited by RJ Hollinger 10/17/2020
 import time
+# random_word has been having issues with accessing API, requested a new API key to use
+# New API key should arrive by 10-22-2020
 from random_word import RandomWords
 
 
