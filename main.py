@@ -1,7 +1,7 @@
 # Last edited by RJ Hollinger 10/17/2020
 import time
-# random_word has been having issues with accessing API, requested a new API key to use
-# New API key should arrive by 10-22-2020
+# New API key arrived: 6ock9enx4ete2uey4actbd4qvz5xt1k339xzz4d25t1pm4w32
+# Update your config.py for random-word module if you build this project yourself. 
 from random_word import RandomWords
 
 
